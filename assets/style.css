@@ -1774,9 +1774,17 @@ strong {
     display: none;
 }
 
+.app-btns {
+    display: flex;
+    flex-direction: column;
+    gap: 14px;
+    margin-top: 30px;
+    align-items: center;
+}
+
 .qr-wrap {
     margin-top: 30px;
-    margin-left: 80px;
+    margin-left: 60px;
 }
   
 
